@@ -21,52 +21,43 @@ Title derived from original captions on the work by the creator. If the original
 ### Work Title Type
 repository
 ### Work Agent Name
-Individual(s) or corporate entities that created or are associated with the work. Common names seen in the collection include: [Bent, George, 1843-1918](http://id.loc.gov/authorities/names/nr95005867) 
+Individual(s) or corporate entities that created or are associated with the work. Common names seen in the collection include: [Bent, George, 1843-1918](http://id.loc.gov/authorities/names/nr95005867); [Hyde, George E., 1882-1968](http://id.loc.gov/authorities/names/n94033850)
 
-### Work Agent Name Vocab
-### Work Agent Name Refid
-### Work Agent Name Type
-### Work Agent Role
-### Work Agent Role Vocab
-### Work Agent Role Refid
 ### Work Date
-### Work Date Type
-### Work Measurements
-### Work measurement
-### Work Measurement Type
-### Work Measurement Unit
+The date of creation of the resource. Date ranges include: 1905-1965
 ### Inscription Text
+Words inscribed on the work.
 ### Subject Term
-### Subject Type
-### Subject Vocab
-### Subject Refid
+A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: Cheyenne Indians--History--Sources; Indians of North America--Colorado--Maps; Colorado--History--To 1876--Maps
 ### Work Description
+Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
+
 ### Work Type
-### Work Type Vocab
-### Work Type Refid
+A term that specifies the characteristics and general type of content of the resource. Type terms used in this collection include: [sketch maps](http://vocab.getty.edu/page/aat/300028413)
+
 ### Relation
-### Relation Type
-### Relation Relids
-### Relation href
+Information that identifies other resources related to the one being described
+
 ### Location Name
+Shelfmark or other shelving designation that indicates the location identifier for a resource. Example: University of Colorado at Boulder Libraries. Archives Dept.
 ### Location Type
+repository
 ### Location Refid
+Box 1 Folder 1
 ### Location Refid Type
+shelfList
 ### Image Rights
-### Image Title
-### Image Title Type
+Information about restrictions imposed on access to a resource.
+
+Statement in collection: The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States, but a determination was not made as to its copyright status under the copyright laws of other countries. The Item may not be in the Public Domain under the laws of other countries. Please refer to the organization that has made the Item available for more information. URI: http://rightsstatements.org/vocab/NoC-US/1.0/
+
+Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 ### Image Source
-### Image Source Type
-### Image Source Refid
-### Image Source Refid Type
+Source from which the item was derived (if part of a greater whole): Rocky Mountain Online Archive Finding Aid of the Bent-Hyde Papers, 1905-1918
 ### Image Measurement
-### Image Measurement Type
-### Image Measurement Unit
-### Image Agent Name
-### Image Agent Type
-### Image Agent Role
+The size of the digital file in bytes.
 ### Image Date
-### Image Date Type
+The date on which the resource was digitized or a subsequent snapshot was taken. Dates include: 2008
 ### Image Work Type
-### Image Work Type Vocab
-### Image Work Type Refid
+[igital images](http://vocab.getty.edu/page/aat/300215302)
+
