@@ -39,11 +39,11 @@ A term that specifies the characteristics and general type of content of the res
 Information that identifies other resources related to the one being described
 
 ### Location Name
-Shelfmark or other shelving designation that indicates the location identifier for a resource. Example: University of Colorado at Boulder Libraries. Archives Dept.
+The institution or repository that holds the resource or where it is available: University of Colorado at Boulder Libraries. Archives Dept.
 ### Location Type
 repository
 ### Location Refid
-Box 1 Folder 1
+Shelfmark or other shelving designation that indicates the location identifier for a resource. Example: Box 1 Folder 1
 ### Location Refid Type
 shelfList
 ### Image Rights
