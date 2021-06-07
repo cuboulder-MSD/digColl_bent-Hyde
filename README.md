@@ -59,5 +59,7 @@ The size of the digital file in bytes.
 ### Image Date
 The date on which the resource was digitized or a subsequent snapshot was taken. Dates include: 2008
 ### Image Work Type
-[igital images](http://vocab.getty.edu/page/aat/300215302)
+[digital images](http://vocab.getty.edu/page/aat/300215302)
+## Resources
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Bent-Hyde Papers](https://archives.colorado.edu/repositories/2/resources/33).
 
