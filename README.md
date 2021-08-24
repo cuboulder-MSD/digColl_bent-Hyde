@@ -62,4 +62,5 @@ The date on which the resource was digitized or a subsequent snapshot was taken.
 [digital images](http://vocab.getty.edu/page/aat/300215302)
 ## Resources
 For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Bent-Hyde Papers](https://archives.colorado.edu/repositories/2/resources/33).
+
 [Little Bear Biography](https://www.nps.gov/sand/learn/historyculture/little-bear-biography.htm)
